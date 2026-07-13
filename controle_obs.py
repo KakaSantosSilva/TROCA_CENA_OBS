@@ -58,9 +58,9 @@ rodando = False
 
 def conectar_obs():
     return ReqClient(
-        host=OBS_HOST,
-        port=OBS_PORT,
-        password=OBS_PASSWORD
+        host=xxxx,
+        port=xxxx,
+        password=xxx
     )
 
 
